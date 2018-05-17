@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "168760939699",
+    "firebase_url": "https://covrxamarinapp.firebaseio.com",
+    "project_id": "covrxamarinapp",
+    "storage_bucket": "covrxamarinapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168760939699:android:38f40637678d1c24",
+        "android_client_info": {
+          "package_name": "com.covrxamarin.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168760939699-3ae1atl4bo2q1k0levh4o4akocg16hc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKkEbXFz6wD1C5pwJSHu3KHXvNdv-CaaU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
